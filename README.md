@@ -2,4 +2,5 @@
 - Im 18 yeas old.
 - I like games and technologies.
 - Im learning how to code, and i intend to start game or website projects.
-- And stream in free time.
+- Im from Brazil.
+- And I stream in free time.
