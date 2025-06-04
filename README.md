@@ -1,5 +1,5 @@
 - Hi, im Hiro.
-- Im 18 yeas old.
+- Im 19 years old.
 - I like games and technologies.
 - Im learning how to code, and i intend to start game or website projects.
 - Im from Brazil.
