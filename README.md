@@ -1,4 +1,8 @@
-<h1 align="center">Feel home, fellow wanderer.</h1>
+<h1 align="center">Feel home, fellow wanderer!</h1>
+
+###
+
+<h5 align="center">And enjoy your stay.</h5>
 
 ###
 
@@ -6,14 +10,17 @@
   <img height="188" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dG5sYzhuY3pkMXJsdGMxb2tsenlrdDhqYWgzamNwd2d5Z3dzMnF5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fVyV3hpreH3oFHMjrZ/giphy.gif"  />
 </div>
 
+###
+
+<h2 align="center">About me</h2>
 
 ###
 
-<p align="left">👋 Hi! My name is João, i'm 19 and i am from Brazil!</p>
+<p align="left">👋 Hi! My name is João, i'm 19 and from Brazil!</p>
 
 ###
 
-<p align="left">🖥 Im a novice Programmer</p>
+<p align="left">🖥 I'm a novice Programmer</p>
 
 ###
 
@@ -21,11 +28,11 @@
 
 ###
 
-<p align="left">🌍 I speak fluentely English and Portuguese</p>
+<p align="left">🌍 I speak fluentely English and Portuguese (French learning still in development).</p>
 
 ###
 
-<p align="left">🕹 I love to play games and working with them.</p>
+<p align="left">🕹 I love to play games and working with them, also looking for a job that fits this area.</p>
 
 ###
 
