@@ -1,11 +1,11 @@
-<h1 align="center">Feel home, fellow wanderer!</h1>
+<h1 align="center">Feel home, fellow wanderer.</h1>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hirouzs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hirouzs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=L%C3%ADnguagens%20Mais%20Usadas" height="150" alt="languages graph"  />
+  <img height="188" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dG5sYzhuY3pkMXJsdGMxb2tsenlrdDhqYWgzamNwd2d5Z3dzMnF5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fVyV3hpreH3oFHMjrZ/giphy.gif"  />
 </div>
+
 
 ###
 
@@ -29,15 +29,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/Hiro.">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Hiro.&count=1&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img align="right" height="210" src="https://i.pinimg.com/originals/42/a4/5f/42a45f81c257479ae3536035a0097abb.gif"  />
+<p align="left">🔎 Look at my profile to check the projects i have worked on.</p>
 
 ###
 
@@ -66,13 +58,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hirouzs/Hirouzs/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hirouzs/Hirouzs/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hirouzs/Hirouzs/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
