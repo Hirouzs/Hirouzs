@@ -16,23 +16,27 @@
 
 ###
 
-<p align="left">👋 Hi! My name is João, i'm 19 and from Brazil!</p>
+<p align="left">👋 Hi! My name is João, i'm 19 and i am from Brazil!</p>
 
 ###
 
-<p align="left">🖥 I'm a novice Programmer</p>
+<p align="left">🖥 Im a novice Programmer who's always interested in learning new things.</p>
 
 ###
 
-<p align="left">📖 I'm currently studying Computer Science in Cesar School</p>
+<p align="left">📖 I'm currently studying Computer Science in Cesar School Recife.</p>
 
 ###
 
-<p align="left">🌍 I speak fluentely English and Portuguese (French learning still in development).</p>
+<p align="left">🌍 I speak fluentely English and Portuguese (French still in development).</p>
 
 ###
 
-<p align="left">🕹 I love to play games and working with them, also looking for a job that fits this area.</p>
+<p align="left">🕹 I love to play games and working with them, and also looking for a job or project that fits that area.</p>
+
+###
+
+<p align="left">☕️ I'm a very cooperative and chilling guy. Determined, and very patient.</p>
 
 ###
 
@@ -50,6 +54,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://profile-counter.glitch.me/Hirouzs/count.svg?"  />
 </div>
 
 ###
