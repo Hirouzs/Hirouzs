@@ -42,6 +42,8 @@
 
 <p align="left">🔎 Look at my profile to check the projects i have worked on.</p>
 
+<p align="left"> Contact me on: joaovrdfreitas@gmail.com</p>
+
 ###
 
 <div align="left">
