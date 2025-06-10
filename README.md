@@ -6,12 +6,6 @@
 
 ###
 
-<div align="center">
-  <img height="188" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dG5sYzhuY3pkMXJsdGMxb2tsenlrdDhqYWgzamNwd2d5Z3dzMnF5MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fVyV3hpreH3oFHMjrZ/giphy.gif"  />
-</div>
-
-###
-
 <h2 align="center">About me</h2>
 
 ###
